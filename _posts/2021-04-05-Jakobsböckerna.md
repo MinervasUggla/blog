@@ -2,6 +2,7 @@
 layout: post
 title: Olga Tokarczuk - Jakobsböckerna
 author: Minervas Uggla
+category: recension
 ---
 
 Jakobsböckerna av Olga Tokaraczuk är ett verkligen gediget litterärt verk, både i omfång och innehåll. I boken får vi följa Jakob Frank, en religiös figur i 1700-talets Europa. Frank var ledare för en synkretistisk rörelse som kombinerade element av judendom, islam och kristendom i sina messianska visioner. Vi får följa Frank och hans följeslagare genom deras migrationer och exiler, missionsresor och flykt runt om i öst- och Centraleuropa. Utöver verkets storslagenhet och den gripande berättelsen om dessa människors levnadsöden är det intressant att se hur, för att använda ett modernt begrepp, mångkulturellt Europa var innan nationalstaternas tillkomst. Här samsas mer eller mindre obehindrat olika folk, språk och religioner, även om det finns slitningar verkar inte den sortens uteslutningsmekanismer som dominerar det moderna samhället. Det finns vi och dom men inte schmittianska fiender som måste avkräva den andras förintelse för att själv överleva. 
