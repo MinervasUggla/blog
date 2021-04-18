@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Ross Wolfe
+title: Ross Wolfe - Nationalism, Borders and the State
 author: Minervas Uggla
 category: anteckningar
 ---
 
-[Nationalism Borders and the State](https://brooklynrail.org/2019/09/field-notes/Nationalism-Borders-and-the-State)
+[Nationalism, Borders and the State](https://brooklynrail.org/2019/09/field-notes/Nationalism-Borders-and-the-State)
 
 Det finns till synes en schism mellan den vänster som driver på frågan om öppna gränser och invalda socialdemokrater. Att den socialdemokratiska vänstern är mot öppna gränser kan framstå som märkligt från början, men när man förstår att deras reformistiska politik är grundad i en ekonomisk nationalism. Problemet är inte att dessa figurer är rasister, strasseriter eller liknande utan att en socialdemokratisk politik är grundad i nationalstaten. Deras ekonomiska nationalism handlar om tanken om att nationalstaten kan skyddas och undandras från världsmarknaden, grundad i en nostalgi för en förglobaliserad organisering av arbete - kapital. Figurer som Bernie Sanders kan säga att det som skulle göra livet bättre för invandrare skulle komma på bekostnad av att göra alla i Amerika fattigare. 
 
