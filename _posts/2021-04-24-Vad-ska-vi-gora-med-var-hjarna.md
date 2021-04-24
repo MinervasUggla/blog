@@ -1,0 +1,8 @@
+---
+layout: post
+title: Catherine Malabou - Vad ska vi göra med vår hjärna?
+author: Minervas Uggla
+category: anteckningar
+---
+
+I sin bok _Vad ska vi göra med vår hjärna?_ tar Malabou utgångspunkt i den senare tidens forskning om hjärnan och framförallt tanken om hjärnans plasticitet. Vad hon undersöker är de filosofiska och politiska implikationerna vi måste identifiera med bakgrund i denna nya syn på hjärnan. Då vi numera förstår hjärnan som något som förändras, byggs och bildas kan vi säga att hjärnan är historisk och därmed skilja oss från en tidigare mekanistisk syn på hjärnan som en maskin. Hjärnan formas och formar, likt ett plastiskt material är den följsam och smidig, men inte oändligt polymorf. Just att plasticitet inte ska förstås som en oändlig formbarhet är viktigt för Malabou som vill särskilja tanken om den plastiska hjärnan från en tanke om oändlig flexibilitet. Denna distinktion är intressant och viktig samtidigt uppfattar jag hennes implikationer som ganska vaga och ointressanta. Det var snarare den relativt lättillgängliga introduktionen till samtida neurovetenskap som gjorde att jag fastnade. Tanken om hjärnan som historisk och som formbar och formande. Tidigare klara gränser som det mellan det tänkta och det fysiska visar sig vara flytande och suddiga då hjärnan inte kan förstås som en maskin utan just som något som faktiskt "dialektiskt" samverkar med vårt sinne. Med detta i bakhuvudet blir det också intressant att titta på trauman och psykisk ohälsa som något just materiellt, kopplat till hjärnas fysiska sammansättning. Detta klargör också för mig varför det kan vara så oerhört svårt att komma vidare eftersom det som krävs är det fysisk-psykiska arbetet att skapa nya neurala kopplingar och band.  
