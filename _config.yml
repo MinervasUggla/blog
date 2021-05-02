@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Minervas Uggla
-email: ugglaminervas@gmail.com
+email: MinervasUggla@posteo.net
 description: >- # this means to ignore newlines until "baseurl:"
         Minervas Uggla är en blog om idéhistoria, teori, historia och litteratur. 
 baseurl: /blog # the subpath of your site, e.g. /blog
